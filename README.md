@@ -3,5 +3,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент группы 20ИТ-1, ПолесГУ</h3>
 <h4 align="left">Я являюсь создателем вот этого калькулятора</h4>
-<img src="путь к файлу" alt="альтернативный текст">
+<img src="https://github.com/BlackSalar/MyCalculator/" alt="альтернативный текст">
 
