@@ -15,7 +15,7 @@ Requirements:
 - Получить код:
 
 ```
-https://github.com/BobkoAnatoly/Calculator.git
+https://github.com/BlackSalar/MyCalculator
 ```
 - Откройте src\Calculator.sln в Visual Studio, чтобы создать и запустить приложение MyCalculator
 
@@ -32,7 +32,7 @@ https://github.com/BobkoAnatoly/Calculator.git
 вычислений.
 
 # Presentation
-<h4 align="left">Я являюсь создателем вот этого калькулятора</h4>
+<h4 align="left">Визуально калькулятор выглядит так:</h4>
 <img src="https://github.com/BlackSalar/MyCalculator/blob/main/15a33350-9f89-4eee-b093-698fc3840479.jfif">
 
 # Function
